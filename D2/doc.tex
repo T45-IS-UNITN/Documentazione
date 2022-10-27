@@ -27,7 +27,7 @@
 \renewcommand{\contentsname}{Indice}
 
 \makeatletter
-\newcommand*{\rom}[1]{\expandafter\@slowromancap\romannumeral #1@}
+\newcommand*{\rom}[1]{\expandafter\@slowromancap\romannumeral#1@}
 \makeatother
 
 \usepackage[a4paper,top=2cm,bottom=2cm,left=2cm,right=2cm]{geometry}
@@ -46,6 +46,7 @@
 \tableofcontents
 \clearpage
 
+% #### Scopo del documento ####
 \section{Scopo del documento}
 \begin{description}
     \item[] Il presente documento illustra la specifica dei requisiti di sistema del progetto, utilizzando anche rappresentazioni grafiche, come diagrammi UML e tabelle strutturate; i requisiti verranno descritti usando sia linguaggio naturale sia in linguaggi più formali e strutturati.
@@ -53,9 +54,8 @@
 \end{description}
 \clearpage
 
+% #### Req. funz ####
 \section{Requisiti Funzionali}
-
-
 \begin{description}
 	\item[] Si individuano 3 tipi di utenti che interagiranno con la webapp:
 		\begin{itemize}
@@ -63,70 +63,135 @@
 		\item  \circled{Re} Utente Registrato
 		\item  \circled{Ad} Utente Amministratore
 		\end{itemize}
-\renewcommand\thesubsubsection{RF\arabic{subsubsection}}
-\subsubsection{Visualizzazione Date} \label{rf_1}
+\end{description}
+
+\renewcommand\thesubsection{RF\arabic{subsection}}
+
+\subsection{Visualizzazione Date}\label{rf_1}
 \begin{description}
     \item Questo requisito è condivido da tutti i tipi di utente.
 \end{description}
 
-\subsubsection{Prenotazione Sala} \label{rf_2}
+\subsection{Prenotazione Sala}\label{rf_2}
 \begin{description}
     \item Questo requisito appartiene a: \circled{Re}
 \end{description}
 
-
-\subsubsection{Gestione prenotazioni} \label{rf_3}
+\subsection{Gestione prenotazioni}\label{rf_3}
 \begin{description}
     \item Questo requisito appartiene a: \circled{Re} \circled{Ad}
 \end{description}
 
-\subsubsection{Annullare una Prenotazione} \label{rf_4}
+\subsection{Annullare una Prenotazione}\label{rf_4}
 \begin{description}
     \item Questo requisito appartiene a: \circled{Re} \circled{Ad}
 \end{description}
 
-\subsubsection{Login} \label{rf_5}
+\subsection{Login}\label{rf_5}
 \begin{description}
     \item Questo requisito appartiene a: \circled{Re} \circled{Ad}
 \end{description}
 
-\subsubsection{Logout} \label{rf_6}
+\subsection{Logout}\label{rf_6}
 \begin{description}
     \item Questo requisito appartiene a: \circled{Re} \circled{Ad}
 \end{description}
 
-\subsubsection{Creazione Nuovo Account} \label{rf_7}
+\subsection{Creazione Nuovo Account}\label{rf_7}
 \begin{description}
     \item Questo requisito appartiene a: \circled{Ad}
 \end{description}
 
-\subsubsection{Gestione Account} \label{rf_8}
+\subsection{Gestione Account}\label{rf_8}
 \begin{description}
     \item Questo requisito appartiene a: \circled{Re} \circled{Ad}
 \end{description}
 
-\subsubsection{Rimozione Account} \label{rf_9}
+\subsection{Rimozione Account}\label{rf_9}
 \begin{description}
     \item[] I donatori registrati potranno scegliere di cancellare il proprio account.
     \item Questo requisito appartiene a: \circled{Re} \circled{Ad}
 \end{description}
 
-\subsubsection{Modifica Stato Sala} \label{rf_10}
+\subsection{Modifica Stato Sala}\label{rf_10}
 \begin{description}
     \item Questo requisito appartiene a: \circled{Ad}
 \end{description}
 
-\subsubsection{Notifica Prenotazione} \label{rf_11}
+\subsection{Notifica Prenotazione}\label{rf_11}
 \begin{description}
     \item Questo requisito appartiene a: \circled{Re}
 \end{description}
 
+\clearpage
 
-
+% #### Req. non. funz ####
+\section{Requisiti Non Funzionali}
+\begin{description}
+    \item[] Nel presente capitolo vengono riportati i requisiti non funzionali (RNF) del sistema utilizzando tabelle strutturate e specificando misure facilmente verificabili. 
 \end{description}
 
+\renewcommand\thesubsection{RNF\arabic{subsection}}
 
+\subsection{Privacy}\label{rnf_1}
+\begin{description}
+    \item Privacy
+\end{description}
+
+\subsection{Sicurezza}\label{rnf_2}
+\begin{description}
+    \item Privacy
+\end{description}
+
+\subsection{Scalabilità}\label{rnf_3}
+\begin{description}
+    \item Privacy
+\end{description}
+
+\subsection{Affidabilità}\label{rnf_4}
+\begin{description}
+    \item Privacy
+\end{description}
+
+\subsection{Resilienza}\label{rnf_5}
+\begin{description}
+    \item Privacy
+\end{description}
+
+\subsection{Accessibilità}\label{rnf_6}
+\begin{description}
+    \item Privacy
+\end{description}
+
+\subsection{Monitoraggio}\label{rnf_7}
+\begin{description}
+    \item Privacy
+\end{description}
+
+\subsection{Multilingua}\label{rnf_8}
+\begin{description}
+    \item Privacy
+\end{description}
 
 \clearpage
+
+
+% #### Anal. Contesto ####
+\section{Analisi del Contesto}
+\begin{description}
+    \item[] Nel presente capitolo viene discusso il contesto di funzionamento del sistema, fornendo una descrizione testuale e una rappresentazione grafica basata su Context Diagram.
+
+    Nella seguente parte della sezione vengono presentati gli attori e i sistemi esterni con cui BloodStream si interfaccerà. 
+\end{description}
+
+\subsection{Utenti e Sistemi esterni}
+\subsection{Diagramma di contesto}
+\clearpage
+
+% #### Anal. Compoonent. ####
+\section{Analisi dei Componenti}
+\subsection{Definizione dei componenti}
+
+\subsection{Diagramma dei componenti}
 
 \end{document}

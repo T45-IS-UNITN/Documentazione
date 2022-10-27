@@ -1,0 +1,28 @@
+\contentsline {section}{\numberline {0}Scopo del documento}{3}{section.2}%
+\contentsline {section}{\numberline {1}Requisiti Funzionali}{4}{section.3}%
+\contentsline {subsection}{\numberline {RF1}Visualizzazione Date}{4}{subsection.4}%
+\contentsline {subsection}{\numberline {RF2}Prenotazione Sala}{4}{subsection.5}%
+\contentsline {subsection}{\numberline {RF3}Gestione prenotazioni}{4}{subsection.6}%
+\contentsline {subsection}{\numberline {RF4}Annullare una Prenotazione}{4}{subsection.7}%
+\contentsline {subsection}{\numberline {RF5}Login}{4}{subsection.8}%
+\contentsline {subsection}{\numberline {RF6}Logout}{4}{subsection.9}%
+\contentsline {subsection}{\numberline {RF7}Creazione Nuovo Account}{4}{subsection.10}%
+\contentsline {subsection}{\numberline {RF8}Gestione Account}{4}{subsection.11}%
+\contentsline {subsection}{\numberline {RF9}Rimozione Account}{4}{subsection.12}%
+\contentsline {subsection}{\numberline {RF10}Modifica Stato Sala}{4}{subsection.13}%
+\contentsline {subsection}{\numberline {RF11}Notifica Prenotazione}{4}{subsection.14}%
+\contentsline {section}{\numberline {2}Requisiti Non Funzionali}{5}{section.15}%
+\contentsline {subsection}{\numberline {RNF1}Privacy}{5}{subsection.16}%
+\contentsline {subsection}{\numberline {RNF2}Sicurezza}{5}{subsection.17}%
+\contentsline {subsection}{\numberline {RNF3}Scalabilità}{5}{subsection.18}%
+\contentsline {subsection}{\numberline {RNF4}Affidabilità}{5}{subsection.19}%
+\contentsline {subsection}{\numberline {RNF5}Resilienza}{5}{subsection.20}%
+\contentsline {subsection}{\numberline {RNF6}Accessibilità}{5}{subsection.21}%
+\contentsline {subsection}{\numberline {RNF7}Monitoraggio}{5}{subsection.22}%
+\contentsline {subsection}{\numberline {RNF8}Multilingua}{5}{subsection.23}%
+\contentsline {section}{\numberline {3}Analisi del Contesto}{6}{section.24}%
+\contentsline {subsection}{\numberline {RNF1}Utenti e Sistemi esterni}{6}{subsection.25}%
+\contentsline {subsection}{\numberline {RNF2}Diagramma di contesto}{6}{subsection.26}%
+\contentsline {section}{\numberline {4}Analisi dei Componenti}{7}{section.27}%
+\contentsline {subsection}{\numberline {RNF1}Definizione dei componenti}{7}{subsection.28}%
+\contentsline {subsection}{\numberline {RNF2}Diagramma dei componenti}{7}{subsection.29}%
