@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1666874993 "/home/matteo/.repos/t45-doc/D2/doc.tex" "doc.pdf" "doc" 1666874994
-  "/home/matteo/.repos/t45-doc/D2/doc.tex" 1666874992 5350 e8a2a3cc2de3712c1d5f994ef923f1ba ""
+["pdflatex"] 1666876303 "/home/matteo/.repos/t45-doc/D2/doc.tex" "doc.pdf" "doc" 1666876304
+  "/home/matteo/.repos/t45-doc/D2/doc.tex" 1666876301 5422 5e9eef466c5983b08efabc84066434f6 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1650183167 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1650183167 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1650183167 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -155,10 +155,10 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1650183167 39911 2da6c67557ec033436fe5418a70a8a61 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1666538615 4278762 af3ac1370db81a450c1118eabf1fe718 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1666538611 2927666 7b7925c3871c23bde5ebc93426268fb8 ""
-  "doc.aux" 1666874994 5247 41dfe2afca7d30fb90336beb22034562 "pdflatex"
-  "doc.out" 1666874994 4010 1f95c98c6814bd0730cd8fed381c3948 "pdflatex"
-  "doc.tex" 1666874992 5350 e8a2a3cc2de3712c1d5f994ef923f1ba ""
-  "doc.toc" 1666874994 2265 ba91dc1f05c692f17b545e10029f41e0 "pdflatex"
+  "doc.aux" 1666876304 5452 418e0fa489850fbbec76c129d4b1a2d4 "pdflatex"
+  "doc.out" 1666876304 4169 e234a0f964a407477b6d59425a945b6d "pdflatex"
+  "doc.tex" 1666876301 5422 5e9eef466c5983b08efabc84066434f6 ""
+  "doc.toc" 1666876304 2394 8124daaf8a0573fe2843b0a1a79184c7 "pdflatex"
   (generated)
   "doc.aux"
   "doc.log"

@@ -22,7 +22,7 @@
             \node[shape=circle,draw,inner sep=2pt] (char) {#1};}}
 
 
-\graphicspath{ {./images/} }
+\graphicspath{ {./media/} }
 
 \renewcommand{\contentsname}{Indice}
 
@@ -57,73 +57,265 @@
 % #### Req. funz ####
 \section{Requisiti Funzionali}
 \begin{description}
-	\item[] Si individuano 3 tipi di utenti che interagiranno con la webapp:
+	\item[] Si individuano 4 attori che interagiranno con la webapp:
 		\begin{itemize}
-		\item  \circled{Un} Utente Non Registrato
-		\item  \circled{Re} Utente Registrato
-		\item  \circled{Ad} Utente Amministratore
+		\item  Utente Non Registrato
+		\item  Utente Registrato
+		\item  Utente Amministratore
+		\item  Servizio di Notifica
 		\end{itemize}
 \end{description}
 
-\renewcommand\thesubsection{RF\arabic{subsection}}
 
-\subsection{Visualizzazione Date}\label{rf_1}
+% # Utente non registrato #
+\subsection{Utente Non Registrato}
+\renewcommand\thesubsubsection{RF \arabic{subsubsection}}
+
+\subsubsection{Visualizzazione Date}\label{rf_1}
 \begin{description}
-    \item Questo requisito è condivido da tutti i tipi di utente.
+    
+    \begin{figure}[htp]
+	\centering
+	\includegraphics[]{rf1.png}
+	\end{figure}
+     
+    \item L'utente può visualizzare un calendario con evidenziati i giorni in cui sono disponibili gli appuntamenti. 
 \end{description}
 
-\subsection{Prenotazione Sala}\label{rf_2}
+
+% # Utente registrato #
+\subsection{Utente Registrato}
+
+\subsubsection{Visualizzazione Date}\label{rf_1}
 \begin{description}
-    \item Questo requisito appartiene a: \circled{Re}
+    
+    \begin{figure}[htp]
+	\centering
+	\includegraphics[]{rf1.png}
+	\end{figure}
+    
+    \item L'utente può visualizzare un calendario con evidenziati i giorni in cui sono disponibili gli appuntamenti. 
 \end{description}
 
-\subsection{Gestione prenotazioni}\label{rf_3}
+\subsubsection{Prenotazione Sala}\label{rf_2}
 \begin{description}
-    \item Questo requisito appartiene a: \circled{Re} \circled{Ad}
-\end{description}
 
-\subsection{Annullare una Prenotazione}\label{rf_4}
-\begin{description}
-    \item Questo requisito appartiene a: \circled{Re} \circled{Ad}
-\end{description}
-
-\subsection{Login}\label{rf_5}
-\begin{description}
-    \item Questo requisito appartiene a: \circled{Re} \circled{Ad}
-\end{description}
-
-\subsection{Logout}\label{rf_6}
-\begin{description}
-    \item Questo requisito appartiene a: \circled{Re} \circled{Ad}
-\end{description}
-
-\subsection{Creazione Nuovo Account}\label{rf_7}
-\begin{description}
-    \item Questo requisito appartiene a: \circled{Ad}
-\end{description}
-
-\subsection{Gestione Account}\label{rf_8}
-\begin{description}
-    \item Questo requisito appartiene a: \circled{Re} \circled{Ad}
-\end{description}
-
-\subsection{Rimozione Account}\label{rf_9}
-\begin{description}
-    \item[] I donatori registrati potranno scegliere di cancellare il proprio account.
-    \item Questo requisito appartiene a: \circled{Re} \circled{Ad}
-\end{description}
-
-\subsection{Modifica Stato Sala}\label{rf_10}
-\begin{description}
-    \item Questo requisito appartiene a: \circled{Ad}
-\end{description}
-
-\subsection{Notifica Prenotazione}\label{rf_11}
-\begin{description}
-    \item Questo requisito appartiene a: \circled{Re}
+	 \begin{figure}[htp]
+	\centering
+	\includegraphics[]{rf2.png}
+	\end{figure}
+	
+    \item Un utente è in grado di prenotare un appuntamento, consultando il calendario dove sono evidenziate le date disponibili. L'utente può concludere con successo una prenotazione solamente dopo aver effettuato il Login al sistema.   	
 \end{description}
 
 \clearpage
+
+\subsubsection{Gestione prenotazioni}\label{rf_3}
+\begin{description}
+
+	\begin{figure}[htp]
+	\centering
+	\includegraphics[width=\textwidth]{rf3.png}
+	\end{figure}
+
+    \item L'utente può consultare le proprie prenotazioni, precedentemente prenotate, così da poter capire quando e dove avverranno.
+\end{description}
+
+\subsubsection{Annullare una Prenotazione}\label{rf_4}
+\begin{description}
+
+	\begin{figure}[htp]
+	\centering
+	\includegraphics[]{rf4.png}
+	\end{figure}
+
+    \item L'utente può annullare le proprie prenotazioni precedentemente effettuate.
+\end{description}
+
+
+\subsubsection{Login}\label{rf_5}
+\begin{description}
+
+	\begin{figure}[htp]
+	\centering
+	\includegraphics[]{rf5.png}
+	\end{figure}
+
+    \item L'utente che possiede credenziali idonee può utilizzarle per autenticarsi alla piattaforma, così da poter interagire con essa da utente registrato.
+\end{description}
+
+\clearpage
+
+\subsubsection{Logout}\label{rf_6}
+\begin{description}
+
+	\begin{figure}[htp]
+	\centering
+	\includegraphics[]{rf6.png}
+	\end{figure}
+
+    \item Una volta che l'utente ha eseguito l'accesso alla piattaforma è anche in grado di terminare la sessione, di fatto tornando un utente non registrato agli occhi di quest'ultima. L'utente deve aver effettuato il login precedentemente. 
+\end{description}
+
+
+\renewcommand\thesubsubsection{RF 8}
+\subsubsection{Gestione Account}\label{rf_8}
+\begin{description}
+
+	\begin{figure}[htp]
+	\centering
+	\includegraphics[]{rf8.png}
+	\end{figure}	
+	
+    \item L'utente che ha effettuato il login al sistema è anche in grado di consultare i propri dati interni al sistema, potendo anche aggiornare tali dati.
+\end{description}
+
+\renewcommand\thesubsubsection{RF 9}
+\subsubsection{Rimozione Account}\label{rf_9}
+\begin{description}
+
+	\begin{figure}[htp]
+	\centering
+	\includegraphics[]{rf9.png}
+	\end{figure}
+
+    \item L'utente che ha effettuato il login al sistema è anche in grado di cancellare il proprio account, così da terminare la sua capacità di usufruire della piattaforma.
+\end{description}
+
+\clearpage
+
+% # ADMIN #
+\subsection{Utente Amministratore}
+
+\renewcommand\thesubsubsection{RF \arabic{subsubsection}}
+\subsubsection{Visualizzazione Date}\label{rf_1}
+\begin{description}
+    
+    \begin{figure}[htp]
+	\centering
+	\includegraphics[]{rf1.png}
+	\end{figure}
+    
+    \item L'utente può visualizzare un calendario con evidenziati i giorni in cui sono disponibili gli appuntamenti. 
+\end{description}
+
+\renewcommand\thesubsubsection{RF 3}
+\subsubsection{Gestione prenotazioni}\label{rf_3}
+\begin{description}
+
+	\begin{figure}[htp]
+	\centering
+	\includegraphics[width=\textwidth]{rf3.png}
+	\end{figure}
+
+    \item L'utente Amministratore può consultare le prenotazioni effettuate dagli utenti registrati alla piattaforma.
+\end{description}
+
+\renewcommand\thesubsubsection{RF 4}
+\subsubsection{Annullare una Prenotazione}\label{rf_4}
+\begin{description}
+
+	\begin{figure}[htp]
+	\centering
+	\includegraphics[]{rf4.png}
+	\end{figure}
+
+    \item L'utente Amministratore può annullare le prenotazioni precedentemente effettuate da parte di altri utenti registrati.
+\end{description}
+
+\clearpage
+
+\renewcommand\thesubsubsection{RF 5}
+\subsubsection{Login}\label{rf_5}
+\begin{description}
+
+	\begin{figure}[htp]
+	\centering
+	\includegraphics[]{rf5.png}
+	\end{figure}
+
+    \item L'utente Amministratore che possiede credenziali idonee può utilizzarle per autenticarsi alla piattaforma, così da poter interagire con essa da utente registrato.
+\end{description}
+
+\renewcommand\thesubsubsection{RF 6}
+\subsubsection{Logout}\label{rf_6}
+\begin{description}
+
+	\begin{figure}[htp]
+	\centering
+	\includegraphics[]{rf6.png}
+	\end{figure}
+
+    \item Una volta che l'utente Amministratore ha eseguito l'accesso alla piattaforma è anche in grado di terminare la sessione, di fatto tornando un utente non registrato agli occhi di quest'ultima. L'utente deve aver effettuato il login precedentemente. 
+\end{description}
+
+\renewcommand\thesubsubsection{RF 7}
+\subsubsection{Creazione Nuovo Account}\label{rf_7}
+\begin{description}
+
+	\begin{figure}[htp]
+	\centering
+	\includegraphics[]{rf7.png}
+	\end{figure}
+
+    \item L'utente amministratore può creare manualmente un nuovo account utente, somministrando alla Pubblica Amministrazione i dati anagrafici forniti dal donatore (ossia un futuro utilizzatore della piattaforma). Ogni donatore è registrato presso un ente dedicato interno alla PA. Una volta che l'ente accetta la registrazione del donatore al sistema può interagire con esso, effettuando il login.
+\end{description}
+
+\clearpage
+
+\renewcommand\thesubsubsection{RF 8}
+\subsubsection{Gestione Account}\label{rf_8}
+\begin{description}
+
+	\begin{figure}[htp]
+	\centering
+	\includegraphics[]{rf8.png}
+	\end{figure}	
+	
+    \item L'utente che ha effettuato il login al sistema è anche in grado di consultare i propri dati interni al sistema, potendo anche aggiornare tali dati. L'utente Amministratore è in grado di consultare informazioni appartenenti agli utenti registrati.
+\end{description}
+
+\renewcommand\thesubsubsection{RF 9}
+\subsubsection{Rimozione Account}\label{rf_9}
+\begin{description}
+
+	\begin{figure}[htp]
+	\centering
+	\includegraphics[]{rf9.png}
+	\end{figure}
+
+    \item L'utente che ha effettuato il login al sistema è anche in grado di cancellare il proprio account, così da terminare la sua capacità di usufruire della piattaforma. L'utente Amministratore è in grado di cancellare l'account di un utente regsitrato.
+\end{description}
+
+\renewcommand\thesubsubsection{RF 10}
+\subsubsection{Modifica Stato Sala}\label{rf_10}
+\begin{description}
+
+	\begin{figure}[htp]
+	\centering
+	\includegraphics[]{rf10.png}
+	\end{figure}
+
+    \item L’utente amministratore può modificare lo stato di una specifica sala.
+\end{description}
+
+\clearpage
+
+\subsection{Servizio di Notifica SMS/Email}
+% ### notifica ###
+\renewcommand\thesubsubsection{RF 11}
+\subsubsection{Notifica Prenotazione}\label{rf_11}
+\begin{description}
+
+	\begin{figure}[htp]
+	\centering
+	\includegraphics[]{rf11.png}
+	\end{figure}
+	
+	\item Quando la prenotazione è imminente, il servizio di notifica tramite SMS/Email invia un messaggio all'utente riguardo l'evento.
+\end{description}
+\clearpage
+
 
 % #### Req. non. funz ####
 \section{Requisiti Non Funzionali}
@@ -131,50 +323,49 @@
     \item[] Nel presente capitolo vengono riportati i requisiti non funzionali (RNF) del sistema utilizzando tabelle strutturate e specificando misure facilmente verificabili. 
 \end{description}
 
-\renewcommand\thesubsection{RNF\arabic{subsection}}
+\renewcommand\thesubsubsection{RNF \arabic{subsubsection}}
 
-\subsection{Privacy}\label{rnf_1}
+\subsubsection{Privacy}\label{rnf_1}
 \begin{description}
     \item Privacy
 \end{description}
 
-\subsection{Sicurezza}\label{rnf_2}
+\subsubsection{Sicurezza}\label{rnf_2}
 \begin{description}
     \item Privacy
 \end{description}
 
-\subsection{Scalabilità}\label{rnf_3}
+\subsubsection{Scalabilità}\label{rnf_3}
 \begin{description}
     \item Privacy
 \end{description}
 
-\subsection{Affidabilità}\label{rnf_4}
+\subsubsection{Affidabilità}\label{rnf_4}
 \begin{description}
     \item Privacy
 \end{description}
 
-\subsection{Resilienza}\label{rnf_5}
+\subsubsection{Resilienza}\label{rnf_5}
 \begin{description}
     \item Privacy
 \end{description}
 
-\subsection{Accessibilità}\label{rnf_6}
+\subsubsection{Accessibilità}\label{rnf_6}
 \begin{description}
     \item Privacy
 \end{description}
 
-\subsection{Monitoraggio}\label{rnf_7}
+\subsubsection{Monitoraggio}\label{rnf_7}
 \begin{description}
     \item Privacy
 \end{description}
 
-\subsection{Multilingua}\label{rnf_8}
+\subsubsection{Multilingua}\label{rnf_8}
 \begin{description}
     \item Privacy
 \end{description}
 
 \clearpage
-
 
 % #### Anal. Contesto ####
 \section{Analisi del Contesto}
