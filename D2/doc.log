@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.10.23)  27 OCT 2022 15:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.10.23)  3 NOV 2022 14:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -247,12 +247,21 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 \Hy@SectionHShift=\skip55
 ) (/usr/share/texmf-dist/tex/latex/placeins/placeins.sty
 Package: placeins 2005/04/18  v 2.2
+) (/usr/share/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen156
+\TX@old@table=\dimen157
+\TX@old@col=\dimen158
+\TX@target=\dimen159
+\TX@delta=\dimen160
+\TX@cols=\count282
+\TX@ftn=\toks26
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 18.
+Package hyperref Info: Option `colorlinks' set `true' on input line 19.
  (/usr/share/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks26
-\pgfutil@tempdima=\dimen156
-\pgfutil@tempdimb=\dimen157
+\pgfutil@everybye=\toks27
+\pgfutil@tempdima=\dimen161
+\pgfutil@tempdimb=\dimen162
  (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box54
 ) (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/usr/share/texmf-dist/tex/generic/pgf/pgf.revision.tex)
@@ -262,31 +271,31 @@ Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
  (/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/share/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
  (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks27
-\pgfkeys@temptoks=\toks28
+\pgfkeys@pathtoks=\toks28
+\pgfkeys@temptoks=\toks29
  (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
-\pgfkeys@tmptoks=\toks29
+\pgfkeys@tmptoks=\toks30
 ))
-\pgf@x=\dimen158
-\pgf@y=\dimen159
-\pgf@xa=\dimen160
-\pgf@ya=\dimen161
-\pgf@xb=\dimen162
-\pgf@yb=\dimen163
-\pgf@xc=\dimen164
-\pgf@yc=\dimen165
-\pgf@xd=\dimen166
-\pgf@yd=\dimen167
+\pgf@x=\dimen163
+\pgf@y=\dimen164
+\pgf@xa=\dimen165
+\pgf@ya=\dimen166
+\pgf@xb=\dimen167
+\pgf@yb=\dimen168
+\pgf@xc=\dimen169
+\pgf@yc=\dimen170
+\pgf@xd=\dimen171
+\pgf@yd=\dimen172
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count282
-\c@pgf@countb=\count283
-\c@pgf@countc=\count284
-\c@pgf@countd=\count285
-\t@pgf@toka=\toks30
-\t@pgf@tokb=\toks31
-\t@pgf@tokc=\toks32
-\pgf@sys@id@count=\count286
+\c@pgf@counta=\count283
+\c@pgf@countb=\count284
+\c@pgf@countc=\count285
+\c@pgf@countd=\count286
+\t@pgf@toka=\toks31
+\t@pgf@tokb=\toks32
+\t@pgf@tokc=\toks33
+\pgf@sys@id@count=\count287
  (/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
 )
@@ -297,59 +306,59 @@ File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
 File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
 ))) (/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfsyssoftpath@smallbuffer@items=\count287
-\pgfsyssoftpath@bigbuffer@items=\count288
+\pgfsyssoftpath@smallbuffer@items=\count288
+\pgfsyssoftpath@bigbuffer@items=\count289
 ) (/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
  (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen168
-\pgfmath@count=\count289
+\pgfmath@dimen=\dimen173
+\pgfmath@count=\count290
 \pgfmath@box=\box55
-\pgfmath@toks=\toks33
-\pgfmath@stack@operand=\toks34
-\pgfmath@stack@operation=\toks35
+\pgfmath@toks=\toks34
+\pgfmath@stack@operand=\toks35
+\pgfmath@stack@operation=\toks36
 ) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count290
+\c@pgfmathroundto@lastzeros=\count291
 )) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@picminx=\dimen169
-\pgf@picmaxx=\dimen170
-\pgf@picminy=\dimen171
-\pgf@picmaxy=\dimen172
-\pgf@pathminx=\dimen173
-\pgf@pathmaxx=\dimen174
-\pgf@pathminy=\dimen175
-\pgf@pathmaxy=\dimen176
-\pgf@xx=\dimen177
-\pgf@xy=\dimen178
-\pgf@yx=\dimen179
-\pgf@yy=\dimen180
-\pgf@zx=\dimen181
-\pgf@zy=\dimen182
+\pgf@picminx=\dimen174
+\pgf@picmaxx=\dimen175
+\pgf@picminy=\dimen176
+\pgf@picmaxy=\dimen177
+\pgf@pathminx=\dimen178
+\pgf@pathmaxx=\dimen179
+\pgf@pathminy=\dimen180
+\pgf@pathmaxy=\dimen181
+\pgf@xx=\dimen182
+\pgf@xy=\dimen183
+\pgf@yx=\dimen184
+\pgf@yy=\dimen185
+\pgf@zx=\dimen186
+\pgf@zy=\dimen187
 ) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@path@lastx=\dimen183
-\pgf@path@lasty=\dimen184
+\pgf@path@lastx=\dimen188
+\pgf@path@lasty=\dimen189
 ) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@shorten@end@additional=\dimen185
-\pgf@shorten@start@additional=\dimen186
+\pgf@shorten@end@additional=\dimen190
+\pgf@shorten@start@additional=\dimen191
 ) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfpic=\box56
 \pgf@hbox=\box57
 \pgf@layerbox@main=\box58
-\pgf@picture@serial@count=\count291
+\pgf@picture@serial@count=\count292
 ) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgflinewidth=\dimen187
+\pgflinewidth=\dimen192
 ) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@pt@x=\dimen188
-\pgf@pt@y=\dimen189
-\pgf@pt@temp=\dimen190
+\pgf@pt@x=\dimen193
+\pgf@pt@y=\dimen194
+\pgf@pt@temp=\dimen195
 ) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
@@ -358,12 +367,12 @@ File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfarrowsep=\dimen191
+\pgfarrowsep=\dimen196
 ) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@max=\dimen192
-\pgf@sys@shading@range@num=\count292
-\pgf@shadingcount=\count293
+\pgf@max=\dimen197
+\pgf@sys@shading@range@num=\count293
+\pgf@shadingcount=\count294
 ) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
  (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
@@ -384,47 +393,47 @@ File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ) (/usr/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@nodesepstart=\dimen193
-\pgf@nodesepend=\dimen194
+\pgf@nodesepstart=\dimen198
+\pgf@nodesepend=\dimen199
 ) (/usr/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
 )) (/usr/share/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/share/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
  (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen195
-\pgffor@skip=\dimen196
-\pgffor@stack=\toks36
-\pgffor@toks=\toks37
+\pgffor@iter=\dimen256
+\pgffor@skip=\dimen257
+\pgffor@stack=\toks37
+\pgffor@toks=\toks38
 )) (/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
  (/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@plot@mark@count=\count294
-\pgfplotmarksize=\dimen197
+\pgf@plot@mark@count=\count295
+\pgfplotmarksize=\dimen258
 )
-\tikz@lastx=\dimen198
-\tikz@lasty=\dimen199
-\tikz@lastxsaved=\dimen256
-\tikz@lastysaved=\dimen257
-\tikz@lastmovetox=\dimen258
-\tikz@lastmovetoy=\dimen259
-\tikzleveldistance=\dimen260
-\tikzsiblingdistance=\dimen261
+\tikz@lastx=\dimen259
+\tikz@lasty=\dimen260
+\tikz@lastxsaved=\dimen261
+\tikz@lastysaved=\dimen262
+\tikz@lastmovetox=\dimen263
+\tikz@lastmovetoy=\dimen264
+\tikzleveldistance=\dimen265
+\tikzsiblingdistance=\dimen266
 \tikz@figbox=\box61
 \tikz@figbox@bg=\box62
 \tikz@tempbox=\box63
 \tikz@tempbox@bg=\box64
-\tikztreelevel=\count295
-\tikznumberofchildren=\count296
-\tikznumberofcurrentchild=\count297
-\tikz@fig@count=\count298
+\tikztreelevel=\count296
+\tikznumberofchildren=\count297
+\tikznumberofcurrentchild=\count298
+\tikz@fig@count=\count299
  (/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfmatrixcurrentrow=\count299
-\pgfmatrixcurrentcolumn=\count300
-\pgf@matrix@numberofcolumns=\count301
+\pgfmatrixcurrentrow=\count300
+\pgfmatrixcurrentcolumn=\count301
+\pgf@matrix@numberofcolumns=\count302
 )
-\tikz@expandcount=\count302
+\tikz@expandcount=\count303
  (/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ))) (/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
@@ -432,63 +441,88 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
  (/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count303
-\Gm@cntv=\count304
-\c@Gm@tempcnt=\count305
-\Gm@bindingoffset=\dimen262
-\Gm@wd@mp=\dimen263
-\Gm@odd@mp=\dimen264
-\Gm@even@mp=\dimen265
-\Gm@layoutwidth=\dimen266
-\Gm@layoutheight=\dimen267
-\Gm@layouthoffset=\dimen268
-\Gm@layoutvoffset=\dimen269
-\Gm@dimlist=\toks38
+\Gm@cnth=\count304
+\Gm@cntv=\count305
+\c@Gm@tempcnt=\count306
+\Gm@bindingoffset=\dimen267
+\Gm@wd@mp=\dimen268
+\Gm@odd@mp=\dimen269
+\Gm@even@mp=\dimen270
+\Gm@layoutwidth=\dimen271
+\Gm@layoutheight=\dimen272
+\Gm@layouthoffset=\dimen273
+\Gm@layoutvoffset=\dimen274
+\Gm@dimlist=\toks39
 ) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-04-14 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count306
+\l__color_backend_stack_int=\count307
 \l__pdf_internal_box=\box65
-) (./doc.aux)
+) (./doc.aux
+
+LaTeX Warning: Label `rf_1' multiply defined.
+
+
+LaTeX Warning: Label `rf_1' multiply defined.
+
+
+LaTeX Warning: Label `rf_3' multiply defined.
+
+
+LaTeX Warning: Label `rf_4' multiply defined.
+
+
+LaTeX Warning: Label `rf_5' multiply defined.
+
+
+LaTeX Warning: Label `rf_6' multiply defined.
+
+
+LaTeX Warning: Label `rf_8' multiply defined.
+
+
+LaTeX Warning: Label `rf_9' multiply defined.
+
+)
 \openout1 = `doc.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
  (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count307
-\scratchdimen=\dimen270
+\scratchcounter=\count308
+\scratchdimen=\dimen275
 \scratchbox=\box66
-\nofMPsegments=\count308
-\nofMParguments=\count309
-\everyMPshowfont=\toks39
-\MPscratchCnt=\count310
-\MPscratchDim=\dimen271
-\MPnumerator=\count311
-\makeMPintoPDFobject=\count312
-\everyMPtoPDFconversion=\toks40
+\nofMPsegments=\count309
+\nofMParguments=\count310
+\everyMPshowfont=\toks40
+\MPscratchCnt=\count311
+\MPscratchDim=\dimen276
+\MPnumerator=\count312
+\makeMPintoPDFobject=\count313
+\everyMPtoPDFconversion=\toks41
 ) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring ON on input line 41.
+Package hyperref Info: Link coloring ON on input line 42.
  (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/share/texmf-dist/tex/latex/refcount/refcount.sty
@@ -496,16 +530,16 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/share/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count313
+\c@section@level=\count314
 )
-LaTeX Info: Redefining \ref on input line 41.
-LaTeX Info: Redefining \pageref on input line 41.
-LaTeX Info: Redefining \nameref on input line 41.
+LaTeX Info: Redefining \ref on input line 42.
+LaTeX Info: Redefining \pageref on input line 42.
+LaTeX Info: Redefining \nameref on input line 42.
  (./doc.out) (./doc.out)
 \@outlinefile=\write4
 \openout4 = `doc.out'.
 
-Package hyperref Info: Anchor `Doc-Start' on input line 41.
+Package hyperref Info: Anchor `Doc-Start' on input line 42.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -541,30 +575,30 @@ Package hyperref Info: Anchor `Doc-Start' on input line 41.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 44.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 45.
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 44.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 45.
  (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Package hyperref Info: Anchor `page.1' on input line 45.
+Package hyperref Info: Anchor `page.1' on input line 46.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Package hyperref Info: Anchor `section*.1' on input line 46.
+Package hyperref Info: Anchor `section*.1' on input line 47.
  (./doc.toc
 Package hyperref Info: Reference (link) `section.2' on input line 1.
 Package hyperref Info: Reference (link) `section.2' on input line 1.
 Package hyperref Info: Reference (link) `section.3' on input line 2.
 Package hyperref Info: Reference (link) `section.3' on input line 2.
-Package hyperref Info: Reference (link) `subsubsection.4' on input line 3.
-Package hyperref Info: Reference (link) `subsubsection.4' on input line 3.
+Package hyperref Info: Reference (link) `subsection.4' on input line 3.
+Package hyperref Info: Reference (link) `subsection.4' on input line 3.
 Package hyperref Info: Reference (link) `subsubsection.5' on input line 4.
 Package hyperref Info: Reference (link) `subsubsection.5' on input line 4.
-Package hyperref Info: Reference (link) `subsubsection.6' on input line 5.
-Package hyperref Info: Reference (link) `subsubsection.6' on input line 5.
+Package hyperref Info: Reference (link) `subsection.6' on input line 5.
+Package hyperref Info: Reference (link) `subsection.6' on input line 5.
 Package hyperref Info: Reference (link) `subsubsection.7' on input line 6.
 Package hyperref Info: Reference (link) `subsubsection.7' on input line 6.
 Package hyperref Info: Reference (link) `subsubsection.8' on input line 7.
@@ -581,8 +615,8 @@ Package hyperref Info: Reference (link) `subsubsection.13' on input line 12.
 Package hyperref Info: Reference (link) `subsubsection.13' on input line 12.
 Package hyperref Info: Reference (link) `subsubsection.14' on input line 13.
 Package hyperref Info: Reference (link) `subsubsection.14' on input line 13.
-Package hyperref Info: Reference (link) `section.15' on input line 14.
-Package hyperref Info: Reference (link) `section.15' on input line 14.
+Package hyperref Info: Reference (link) `subsection.15' on input line 14.
+Package hyperref Info: Reference (link) `subsection.15' on input line 14.
 Package hyperref Info: Reference (link) `subsubsection.16' on input line 15.
 Package hyperref Info: Reference (link) `subsubsection.16' on input line 15.
 Package hyperref Info: Reference (link) `subsubsection.17' on input line 16.
@@ -599,35 +633,59 @@ Package hyperref Info: Reference (link) `subsubsection.22' on input line 21.
 Package hyperref Info: Reference (link) `subsubsection.22' on input line 21.
 Package hyperref Info: Reference (link) `subsubsection.23' on input line 22.
 Package hyperref Info: Reference (link) `subsubsection.23' on input line 22.
-Package hyperref Info: Reference (link) `section.24' on input line 23.
-Package hyperref Info: Reference (link) `section.24' on input line 23.
+Package hyperref Info: Reference (link) `subsubsection.24' on input line 23.
+Package hyperref Info: Reference (link) `subsubsection.24' on input line 23.
 Package hyperref Info: Reference (link) `subsection.25' on input line 24.
 Package hyperref Info: Reference (link) `subsection.25' on input line 24.
-Package hyperref Info: Reference (link) `subsection.26' on input line 25.
-Package hyperref Info: Reference (link) `subsection.26' on input line 25.
+Package hyperref Info: Reference (link) `subsubsection.26' on input line 25.
+Package hyperref Info: Reference (link) `subsubsection.26' on input line 25.
 Package hyperref Info: Reference (link) `section.27' on input line 26.
 Package hyperref Info: Reference (link) `section.27' on input line 26.
-Package hyperref Info: Reference (link) `subsection.28' on input line 27.
-Package hyperref Info: Reference (link) `subsection.28' on input line 27.
-Package hyperref Info: Reference (link) `subsection.29' on input line 28.
-Package hyperref Info: Reference (link) `subsection.29' on input line 28.
+Package hyperref Info: Reference (link) `subsubsection.28' on input line 27.
+Package hyperref Info: Reference (link) `subsubsection.28' on input line 27.
+Package hyperref Info: Reference (link) `subsubsection.29' on input line 28.
+Package hyperref Info: Reference (link) `subsubsection.29' on input line 28.
+Package hyperref Info: Reference (link) `subsubsection.30' on input line 29.
+Package hyperref Info: Reference (link) `subsubsection.30' on input line 29.
+Package hyperref Info: Reference (link) `subsubsection.31' on input line 30.
+Package hyperref Info: Reference (link) `subsubsection.31' on input line 30.
+Package hyperref Info: Reference (link) `subsubsection.32' on input line 31.
+Package hyperref Info: Reference (link) `subsubsection.32' on input line 31.
+Package hyperref Info: Reference (link) `subsubsection.33' on input line 32.
+Package hyperref Info: Reference (link) `subsubsection.33' on input line 32.
+Package hyperref Info: Reference (link) `subsubsection.34' on input line 33.
+Package hyperref Info: Reference (link) `subsubsection.34' on input line 33.
+Package hyperref Info: Reference (link) `subsubsection.35' on input line 34.
+Package hyperref Info: Reference (link) `subsubsection.35' on input line 34.
+Package hyperref Info: Reference (link) `section.36' on input line 35.
+Package hyperref Info: Reference (link) `section.36' on input line 35.
+Package hyperref Info: Reference (link) `subsection.37' on input line 36.
+Package hyperref Info: Reference (link) `subsection.37' on input line 36.
+Package hyperref Info: Reference (link) `subsection.38' on input line 37.
+Package hyperref Info: Reference (link) `subsection.38' on input line 37.
+Package hyperref Info: Reference (link) `section.39' on input line 38.
+Package hyperref Info: Reference (link) `section.39' on input line 38.
+Package hyperref Info: Reference (link) `subsection.40' on input line 39.
+Package hyperref Info: Reference (link) `subsection.40' on input line 39.
+Package hyperref Info: Reference (link) `subsection.41' on input line 40.
+Package hyperref Info: Reference (link) `subsection.41' on input line 40.
 )
 \tf@toc=\write5
 \openout5 = `doc.toc'.
 
-Package hyperref Info: Anchor `page.2' on input line 47.
+Package hyperref Info: Anchor `page.2' on input line 48.
  [2
 
 Package `hyperref' Info: End of reference (link) `section.2', line 1.
 Package `hyperref' Info: End of reference (link) `section.2', line 1.
 Package `hyperref' Info: End of reference (link) `section.3', line 2.
 Package `hyperref' Info: End of reference (link) `section.3', line 2.
-Package `hyperref' Info: End of reference (link) `subsubsection.4', line 3.
-Package `hyperref' Info: End of reference (link) `subsubsection.4', line 3.
+Package `hyperref' Info: End of reference (link) `subsection.4', line 3.
+Package `hyperref' Info: End of reference (link) `subsection.4', line 3.
 Package `hyperref' Info: End of reference (link) `subsubsection.5', line 4.
 Package `hyperref' Info: End of reference (link) `subsubsection.5', line 4.
-Package `hyperref' Info: End of reference (link) `subsubsection.6', line 5.
-Package `hyperref' Info: End of reference (link) `subsubsection.6', line 5.
+Package `hyperref' Info: End of reference (link) `subsection.6', line 5.
+Package `hyperref' Info: End of reference (link) `subsection.6', line 5.
 Package `hyperref' Info: End of reference (link) `subsubsection.7', line 6.
 Package `hyperref' Info: End of reference (link) `subsubsection.7', line 6.
 Package `hyperref' Info: End of reference (link) `subsubsection.8', line 7.
@@ -644,8 +702,8 @@ Package `hyperref' Info: End of reference (link) `subsubsection.13', line 12.
 Package `hyperref' Info: End of reference (link) `subsubsection.13', line 12.
 Package `hyperref' Info: End of reference (link) `subsubsection.14', line 13.
 Package `hyperref' Info: End of reference (link) `subsubsection.14', line 13.
-Package `hyperref' Info: End of reference (link) `section.15', line 14.
-Package `hyperref' Info: End of reference (link) `section.15', line 14.
+Package `hyperref' Info: End of reference (link) `subsection.15', line 14.
+Package `hyperref' Info: End of reference (link) `subsection.15', line 14.
 Package `hyperref' Info: End of reference (link) `subsubsection.16', line 15.
 Package `hyperref' Info: End of reference (link) `subsubsection.16', line 15.
 Package `hyperref' Info: End of reference (link) `subsubsection.17', line 16.
@@ -662,261 +720,482 @@ Package `hyperref' Info: End of reference (link) `subsubsection.22', line 21.
 Package `hyperref' Info: End of reference (link) `subsubsection.22', line 21.
 Package `hyperref' Info: End of reference (link) `subsubsection.23', line 22.
 Package `hyperref' Info: End of reference (link) `subsubsection.23', line 22.
-Package `hyperref' Info: End of reference (link) `section.24', line 23.
-Package `hyperref' Info: End of reference (link) `section.24', line 23.
+Package `hyperref' Info: End of reference (link) `subsubsection.24', line 23.
+Package `hyperref' Info: End of reference (link) `subsubsection.24', line 23.
 Package `hyperref' Info: End of reference (link) `subsection.25', line 24.
 Package `hyperref' Info: End of reference (link) `subsection.25', line 24.
-Package `hyperref' Info: End of reference (link) `subsection.26', line 25.
-Package `hyperref' Info: End of reference (link) `subsection.26', line 25.
+Package `hyperref' Info: End of reference (link) `subsubsection.26', line 25.
+Package `hyperref' Info: End of reference (link) `subsubsection.26', line 25.
 Package `hyperref' Info: End of reference (link) `section.27', line 26.
 Package `hyperref' Info: End of reference (link) `section.27', line 26.
-Package `hyperref' Info: End of reference (link) `subsection.28', line 27.
-Package `hyperref' Info: End of reference (link) `subsection.28', line 27.
-Package `hyperref' Info: End of reference (link) `subsection.29', line 28.
-Package `hyperref' Info: End of reference (link) `subsection.29', line 28.
+Package `hyperref' Info: End of reference (link) `subsubsection.28', line 27.
+Package `hyperref' Info: End of reference (link) `subsubsection.28', line 27.
+Package `hyperref' Info: End of reference (link) `subsubsection.29', line 28.
+Package `hyperref' Info: End of reference (link) `subsubsection.29', line 28.
+Package `hyperref' Info: End of reference (link) `subsubsection.30', line 29.
+Package `hyperref' Info: End of reference (link) `subsubsection.30', line 29.
+Package `hyperref' Info: End of reference (link) `subsubsection.31', line 30.
+Package `hyperref' Info: End of reference (link) `subsubsection.31', line 30.
+Package `hyperref' Info: End of reference (link) `subsubsection.32', line 31.
+Package `hyperref' Info: End of reference (link) `subsubsection.32', line 31.
+Package `hyperref' Info: End of reference (link) `subsubsection.33', line 32.
+Package `hyperref' Info: End of reference (link) `subsubsection.33', line 32.
+Package `hyperref' Info: End of reference (link) `subsubsection.34', line 33.
+Package `hyperref' Info: End of reference (link) `subsubsection.34', line 33.
+Package `hyperref' Info: End of reference (link) `subsubsection.35', line 34.
+Package `hyperref' Info: End of reference (link) `subsubsection.35', line 34.
+Package `hyperref' Info: End of reference (link) `section.36', line 35.
+Package `hyperref' Info: End of reference (link) `section.36', line 35.
+Package `hyperref' Info: End of reference (link) `subsection.37', line 36.
+Package `hyperref' Info: End of reference (link) `subsection.37', line 36.
+Package `hyperref' Info: End of reference (link) `subsection.38', line 37.
+Package `hyperref' Info: End of reference (link) `subsection.38', line 37.
+Package `hyperref' Info: End of reference (link) `section.39', line 38.
+Package `hyperref' Info: End of reference (link) `section.39', line 38.
+Package `hyperref' Info: End of reference (link) `subsection.40', line 39.
+Package `hyperref' Info: End of reference (link) `subsection.40', line 39.
+Package `hyperref' Info: End of reference (link) `subsection.41', line 40.
+Package `hyperref' Info: End of reference (link) `subsection.41', line 40.
 ]
-Package hyperref Info: Anchor `section.2' on input line 50.
-Package hyperref Info: bookmark on input line 50:
+Package hyperref Info: Anchor `section.2' on input line 51.
+Package hyperref Info: bookmark on input line 51:
 (hyperref)             thecounter {0}
 (hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline {\csname thesection\endcsname }\fi Scopo del documento}
 (hyperref)             reference {section.2}
 (hyperref)             toclevel {1}
 (hyperref)             type {toc}.
-Package hyperref Info: Anchor `page.3' on input line 55.
+Package hyperref Info: Anchor `page.3' on input line 56.
  [3
 
 ]
-Package hyperref Info: Anchor `section.3' on input line 58.
-Package hyperref Info: bookmark on input line 58:
+Package hyperref Info: Anchor `section.3' on input line 59.
+Package hyperref Info: bookmark on input line 59:
 (hyperref)             thecounter {1}
 (hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline {\csname thesection\endcsname }\fi Requisiti Funzionali}
 (hyperref)             reference {section.3}
 (hyperref)             toclevel {1}
 (hyperref)             type {toc}.
-Package hyperref Info: Anchor `subsubsection.4' on input line 70.
-
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 70.
-
-Package hyperref Info: bookmark on input line 70:
-(hyperref)             thecounter {RF 1}
-(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Visualizzazione Date}
-(hyperref)             reference {subsubsection.4}
-(hyperref)             toclevel {3}
+Package hyperref Info: Anchor `subsection.4' on input line 72.
+Package hyperref Info: bookmark on input line 72:
+(hyperref)             thecounter {1.1}
+(hyperref)             text {\ifnum 2>\c@secnumdepth \else \protect \numberline {\csname thesubsection\endcsname }\fi Utente Non Registrato}
+(hyperref)             reference {subsection.4}
+(hyperref)             toclevel {2}
 (hyperref)             type {toc}.
 Package hyperref Info: Anchor `subsubsection.5' on input line 75.
 Package hyperref Info: bookmark on input line 75:
-(hyperref)             thecounter {RF 2}
-(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Prenotazione Sala}
+(hyperref)             thecounter {RF 1}
+(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Visualizzazione Date}
 (hyperref)             reference {subsubsection.5}
 (hyperref)             toclevel {3}
 (hyperref)             type {toc}.
-Package hyperref Info: Anchor `subsubsection.6' on input line 80.
-Package hyperref Info: bookmark on input line 80:
-(hyperref)             thecounter {RF 3}
-(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Gestione prenotazioni}
-(hyperref)             reference {subsubsection.6}
-(hyperref)             toclevel {3}
+<./media//rf1.png, id=266, 193.72375pt x 82.3075pt>
+File: ./media//rf1.png Graphic file (type png)
+<use ./media//rf1.png>
+Package pdftex.def Info: ./media//rf1.png  used on input line 80.
+(pdftex.def)             Requested size: 193.72327pt x 82.30728pt.
+Package hyperref Info: Anchor `subsection.6' on input line 88.
+Package hyperref Info: bookmark on input line 88:
+(hyperref)             thecounter {1.2}
+(hyperref)             text {\ifnum 2>\c@secnumdepth \else \protect \numberline {\csname thesubsection\endcsname }\fi Utente Registrato}
+(hyperref)             reference {subsection.6}
+(hyperref)             toclevel {2}
 (hyperref)             type {toc}.
-Package hyperref Info: Anchor `subsubsection.7' on input line 85.
-Package hyperref Info: bookmark on input line 85:
-(hyperref)             thecounter {RF 4}
-(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Annullare una Prenotazione}
+Package hyperref Info: Anchor `subsubsection.7' on input line 90.
+Package hyperref Info: bookmark on input line 90:
+(hyperref)             thecounter {RF 1}
+(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Visualizzazione Date}
 (hyperref)             reference {subsubsection.7}
 (hyperref)             toclevel {3}
 (hyperref)             type {toc}.
-Package hyperref Info: Anchor `subsubsection.8' on input line 90.
-Package hyperref Info: bookmark on input line 90:
-(hyperref)             thecounter {RF 5}
-(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Login}
+File: ./media//rf1.png Graphic file (type png)
+<use ./media//rf1.png>
+Package pdftex.def Info: ./media//rf1.png  used on input line 95.
+(pdftex.def)             Requested size: 193.72327pt x 82.30728pt.
+Package hyperref Info: Anchor `subsubsection.8' on input line 101.
+Package hyperref Info: bookmark on input line 101:
+(hyperref)             thecounter {RF 2}
+(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Prenotazione Sala}
 (hyperref)             reference {subsubsection.8}
 (hyperref)             toclevel {3}
 (hyperref)             type {toc}.
-Package hyperref Info: Anchor `subsubsection.9' on input line 95.
-Package hyperref Info: bookmark on input line 95:
-(hyperref)             thecounter {RF 6}
-(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Logout}
+<./media//rf2.png, id=268, 344.28625pt x 127.47626pt>
+File: ./media//rf2.png Graphic file (type png)
+<use ./media//rf2.png>
+Package pdftex.def Info: ./media//rf2.png  used on input line 106.
+(pdftex.def)             Requested size: 344.2854pt x 127.47594pt.
+Package hyperref Info: Anchor `page.4' on input line 112.
+ [4
+
+ <./media//rf1.png> <./media//rf2.png>]
+Package hyperref Info: Anchor `subsubsection.9' on input line 114.
+Package hyperref Info: bookmark on input line 114:
+(hyperref)             thecounter {RF 3}
+(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Gestione prenotazioni}
 (hyperref)             reference {subsubsection.9}
 (hyperref)             toclevel {3}
 (hyperref)             type {toc}.
-Package hyperref Info: Anchor `subsubsection.10' on input line 100.
-Package hyperref Info: bookmark on input line 100:
-(hyperref)             thecounter {RF 7}
-(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Creazione Nuovo Account}
+<./media//rf3.png, id=276, 515.9275pt x 161.60374pt>
+File: ./media//rf3.png Graphic file (type png)
+<use ./media//rf3.png>
+Package pdftex.def Info: ./media//rf3.png  used on input line 119.
+(pdftex.def)             Requested size: 483.69687pt x 151.513pt.
+Package hyperref Info: Anchor `subsubsection.10' on input line 125.
+Package hyperref Info: bookmark on input line 125:
+(hyperref)             thecounter {RF 4}
+(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Annullare una Prenotazione}
 (hyperref)             reference {subsubsection.10}
 (hyperref)             toclevel {3}
 (hyperref)             type {toc}.
-Package hyperref Info: Anchor `subsubsection.11' on input line 105.
-Package hyperref Info: bookmark on input line 105:
-(hyperref)             thecounter {RF 8}
-(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Gestione Account}
+<./media//rf4.png, id=277, 355.3275pt x 100.375pt>
+File: ./media//rf4.png Graphic file (type png)
+<use ./media//rf4.png>
+Package pdftex.def Info: ./media//rf4.png  used on input line 130.
+(pdftex.def)             Requested size: 355.32661pt x 100.37474pt.
+Package hyperref Info: Anchor `subsubsection.11' on input line 137.
+Package hyperref Info: bookmark on input line 137:
+(hyperref)             thecounter {RF 5}
+(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Login}
 (hyperref)             reference {subsubsection.11}
 (hyperref)             toclevel {3}
 (hyperref)             type {toc}.
-Package hyperref Info: Anchor `subsubsection.12' on input line 110.
-Package hyperref Info: bookmark on input line 110:
-(hyperref)             thecounter {RF 9}
-(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Rimozione Account}
+<./media//rf5.png, id=278, 319.1925pt x 82.3075pt>
+File: ./media//rf5.png Graphic file (type png)
+<use ./media//rf5.png>
+Package pdftex.def Info: ./media//rf5.png  used on input line 142.
+(pdftex.def)             Requested size: 319.19171pt x 82.30728pt.
+Package hyperref Info: Anchor `page.5' on input line 148.
+ [5
+
+ <./media//rf3.png> <./media//rf4.png> <./media//rf5.png>]
+Package hyperref Info: Anchor `subsubsection.12' on input line 150.
+Package hyperref Info: bookmark on input line 150:
+(hyperref)             thecounter {RF 6}
+(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Logout}
 (hyperref)             reference {subsubsection.12}
 (hyperref)             toclevel {3}
 (hyperref)             type {toc}.
-Package hyperref Info: Anchor `subsubsection.13' on input line 116.
-Package hyperref Info: bookmark on input line 116:
-(hyperref)             thecounter {RF 10}
-(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Modifica Stato Sala}
+<./media//rf6.png, id=286, 394.47375pt x 82.3075pt>
+File: ./media//rf6.png Graphic file (type png)
+<use ./media//rf6.png>
+Package pdftex.def Info: ./media//rf6.png  used on input line 155.
+(pdftex.def)             Requested size: 394.47278pt x 82.30728pt.
+Package hyperref Info: Anchor `subsubsection.13' on input line 163.
+Package hyperref Info: bookmark on input line 163:
+(hyperref)             thecounter {RF 8}
+(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Gestione Account}
 (hyperref)             reference {subsubsection.13}
 (hyperref)             toclevel {3}
 (hyperref)             type {toc}.
-Package hyperref Info: Anchor `subsubsection.14' on input line 121.
-Package hyperref Info: bookmark on input line 121:
-(hyperref)             thecounter {RF 11}
-(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Notifica Prenotazione}
+<./media//rf8.png, id=287, 403.5075pt x 86.3225pt>
+File: ./media//rf8.png Graphic file (type png)
+<use ./media//rf8.png>
+Package pdftex.def Info: ./media//rf8.png  used on input line 168.
+(pdftex.def)             Requested size: 403.50652pt x 86.32227pt.
+Package hyperref Info: Anchor `subsubsection.14' on input line 175.
+Package hyperref Info: bookmark on input line 175:
+(hyperref)             thecounter {RF 9}
+(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Rimozione Account}
 (hyperref)             reference {subsubsection.14}
 (hyperref)             toclevel {3}
 (hyperref)             type {toc}.
-Package hyperref Info: Anchor `page.4' on input line 126.
-[4
+<./media//rf9.png, id=288, 401.5pt x 85.31876pt>
+File: ./media//rf9.png Graphic file (type png)
+<use ./media//rf9.png>
+Package pdftex.def Info: ./media//rf9.png  used on input line 180.
+(pdftex.def)             Requested size: 401.49901pt x 85.31853pt.
+Package hyperref Info: Anchor `page.6' on input line 186.
+ [6
 
-]
-Package hyperref Info: Anchor `section.15' on input line 129.
-Package hyperref Info: bookmark on input line 129:
-(hyperref)             thecounter {2}
-(hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline {\csname thesection\endcsname }\fi Requisiti Non Funzionali}
-(hyperref)             reference {section.15}
-(hyperref)             toclevel {1}
+ <./media//rf6.png> <./media//rf8.png> <./media//rf9.png>]
+Package hyperref Info: Anchor `subsection.15' on input line 189.
+Package hyperref Info: bookmark on input line 189:
+(hyperref)             thecounter {1.3}
+(hyperref)             text {\ifnum 2>\c@secnumdepth \else \protect \numberline {\csname thesubsection\endcsname }\fi Utente Amministratore}
+(hyperref)             reference {subsection.15}
+(hyperref)             toclevel {2}
 (hyperref)             type {toc}.
-Package hyperref Info: Anchor `subsubsection.16' on input line 136.
-
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 136.
-
-Package hyperref Info: bookmark on input line 136:
-(hyperref)             thecounter {RNF 1}
-(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Privacy}
+Package hyperref Info: Anchor `subsubsection.16' on input line 192.
+Package hyperref Info: bookmark on input line 192:
+(hyperref)             thecounter {RF 1}
+(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Visualizzazione Date}
 (hyperref)             reference {subsubsection.16}
 (hyperref)             toclevel {3}
 (hyperref)             type {toc}.
-Package hyperref Info: Anchor `subsubsection.17' on input line 141.
-Package hyperref Info: bookmark on input line 141:
-(hyperref)             thecounter {RNF 2}
-(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Sicurezza}
+File: ./media//rf1.png Graphic file (type png)
+<use ./media//rf1.png>
+Package pdftex.def Info: ./media//rf1.png  used on input line 197.
+(pdftex.def)             Requested size: 193.72327pt x 82.30728pt.
+Package hyperref Info: Anchor `subsubsection.17' on input line 204.
+Package hyperref Info: bookmark on input line 204:
+(hyperref)             thecounter {RF 3}
+(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Gestione prenotazioni}
 (hyperref)             reference {subsubsection.17}
 (hyperref)             toclevel {3}
 (hyperref)             type {toc}.
-Package hyperref Info: Anchor `subsubsection.18' on input line 146.
-Package hyperref Info: bookmark on input line 146:
-(hyperref)             thecounter {RNF 3}
-(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Scalabilità}
+File: ./media//rf3.png Graphic file (type png)
+<use ./media//rf3.png>
+Package pdftex.def Info: ./media//rf3.png  used on input line 209.
+(pdftex.def)             Requested size: 483.69687pt x 151.513pt.
+Package hyperref Info: Anchor `subsubsection.18' on input line 216.
+Package hyperref Info: bookmark on input line 216:
+(hyperref)             thecounter {RF 4}
+(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Annullare una Prenotazione}
 (hyperref)             reference {subsubsection.18}
 (hyperref)             toclevel {3}
 (hyperref)             type {toc}.
-Package hyperref Info: Anchor `subsubsection.19' on input line 151.
-Package hyperref Info: bookmark on input line 151:
-(hyperref)             thecounter {RNF 4}
-(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Affidabilità}
+File: ./media//rf4.png Graphic file (type png)
+<use ./media//rf4.png>
+Package pdftex.def Info: ./media//rf4.png  used on input line 221.
+(pdftex.def)             Requested size: 355.32661pt x 100.37474pt.
+Package hyperref Info: Anchor `page.7' on input line 227.
+ [7
+
+]
+Package hyperref Info: Anchor `subsubsection.19' on input line 230.
+Package hyperref Info: bookmark on input line 230:
+(hyperref)             thecounter {RF 5}
+(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Login}
 (hyperref)             reference {subsubsection.19}
 (hyperref)             toclevel {3}
 (hyperref)             type {toc}.
-Package hyperref Info: Anchor `subsubsection.20' on input line 156.
-Package hyperref Info: bookmark on input line 156:
-(hyperref)             thecounter {RNF 5}
-(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Resilienza}
+File: ./media//rf5.png Graphic file (type png)
+<use ./media//rf5.png>
+Package pdftex.def Info: ./media//rf5.png  used on input line 235.
+(pdftex.def)             Requested size: 319.19171pt x 82.30728pt.
+Package hyperref Info: Anchor `subsubsection.20' on input line 242.
+Package hyperref Info: bookmark on input line 242:
+(hyperref)             thecounter {RF 6}
+(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Logout}
 (hyperref)             reference {subsubsection.20}
 (hyperref)             toclevel {3}
 (hyperref)             type {toc}.
-Package hyperref Info: Anchor `subsubsection.21' on input line 161.
-Package hyperref Info: bookmark on input line 161:
-(hyperref)             thecounter {RNF 6}
-(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Accessibilità}
+File: ./media//rf6.png Graphic file (type png)
+<use ./media//rf6.png>
+Package pdftex.def Info: ./media//rf6.png  used on input line 247.
+(pdftex.def)             Requested size: 394.47278pt x 82.30728pt.
+Package hyperref Info: Anchor `subsubsection.21' on input line 254.
+Package hyperref Info: bookmark on input line 254:
+(hyperref)             thecounter {RF 7}
+(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Creazione Nuovo Account}
 (hyperref)             reference {subsubsection.21}
 (hyperref)             toclevel {3}
 (hyperref)             type {toc}.
-Package hyperref Info: Anchor `subsubsection.22' on input line 166.
-Package hyperref Info: bookmark on input line 166:
-(hyperref)             thecounter {RNF 7}
-(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Monitoraggio}
+<./media//rf7.png, id=302, 317.185pt x 82.3075pt>
+File: ./media//rf7.png Graphic file (type png)
+<use ./media//rf7.png>
+Package pdftex.def Info: ./media//rf7.png  used on input line 259.
+(pdftex.def)             Requested size: 317.1842pt x 82.30728pt.
+Package hyperref Info: Anchor `page.8' on input line 265.
+ [8
+
+ <./media//rf7.png>]
+Package hyperref Info: Anchor `subsubsection.22' on input line 268.
+Package hyperref Info: bookmark on input line 268:
+(hyperref)             thecounter {RF 8}
+(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Gestione Account}
 (hyperref)             reference {subsubsection.22}
 (hyperref)             toclevel {3}
 (hyperref)             type {toc}.
-Package hyperref Info: Anchor `subsubsection.23' on input line 171.
-Package hyperref Info: bookmark on input line 171:
-(hyperref)             thecounter {RNF 8}
-(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Multilingua}
+File: ./media//rf8.png Graphic file (type png)
+<use ./media//rf8.png>
+Package pdftex.def Info: ./media//rf8.png  used on input line 273.
+(pdftex.def)             Requested size: 403.50652pt x 86.32227pt.
+Package hyperref Info: Anchor `subsubsection.23' on input line 280.
+Package hyperref Info: bookmark on input line 280:
+(hyperref)             thecounter {RF 9}
+(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Rimozione Account}
 (hyperref)             reference {subsubsection.23}
 (hyperref)             toclevel {3}
 (hyperref)             type {toc}.
-Package hyperref Info: Anchor `page.5' on input line 177.
-[5
-
-]
-Package hyperref Info: Anchor `section.24' on input line 181.
-Package hyperref Info: bookmark on input line 181:
-(hyperref)             thecounter {3}
-(hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline {\csname thesection\endcsname }\fi Analisi del Contesto}
-(hyperref)             reference {section.24}
-(hyperref)             toclevel {1}
+File: ./media//rf9.png Graphic file (type png)
+<use ./media//rf9.png>
+Package pdftex.def Info: ./media//rf9.png  used on input line 285.
+(pdftex.def)             Requested size: 401.49901pt x 85.31853pt.
+Package hyperref Info: Anchor `subsubsection.24' on input line 292.
+Package hyperref Info: bookmark on input line 292:
+(hyperref)             thecounter {RF 10}
+(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Modifica Stato Sala}
+(hyperref)             reference {subsubsection.24}
+(hyperref)             toclevel {3}
 (hyperref)             type {toc}.
-Package hyperref Info: Anchor `subsection.25' on input line 188.
-Package hyperref Info: bookmark on input line 188:
-(hyperref)             thecounter {3.1}
-(hyperref)             text {\ifnum 2>\c@secnumdepth \else \protect \numberline {\csname thesubsection\endcsname }\fi Utenti e Sistemi esterni}
+<./media//rf10.png, id=308, 387.4475pt x 82.3075pt>
+File: ./media//rf10.png Graphic file (type png)
+<use ./media//rf10.png>
+Package pdftex.def Info: ./media//rf10.png  used on input line 297.
+(pdftex.def)             Requested size: 387.44655pt x 82.30728pt.
+Package hyperref Info: Anchor `page.9' on input line 303.
+ [9
+
+ <./media//rf10.png>]
+Package hyperref Info: Anchor `subsection.25' on input line 305.
+Package hyperref Info: bookmark on input line 305:
+(hyperref)             thecounter {1.4}
+(hyperref)             text {\ifnum 2>\c@secnumdepth \else \protect \numberline {\csname thesubsection\endcsname }\fi Servizio di Notifica SMS/Email}
 (hyperref)             reference {subsection.25}
 (hyperref)             toclevel {2}
 (hyperref)             type {toc}.
-Package hyperref Info: Anchor `subsection.26' on input line 189.
-Package hyperref Info: bookmark on input line 189:
-(hyperref)             thecounter {3.2}
-(hyperref)             text {\ifnum 2>\c@secnumdepth \else \protect \numberline {\csname thesubsection\endcsname }\fi Diagramma di contesto}
-(hyperref)             reference {subsection.26}
-(hyperref)             toclevel {2}
+Package hyperref Info: Anchor `subsubsection.26' on input line 308.
+Package hyperref Info: bookmark on input line 308:
+(hyperref)             thecounter {RF 11}
+(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Notifica Prenotazione}
+(hyperref)             reference {subsubsection.26}
+(hyperref)             toclevel {3}
 (hyperref)             type {toc}.
-Package hyperref Info: Anchor `page.6' on input line 190.
- [6
+<./media//rf11.png, id=314, 375.4025pt x 142.5325pt>
+File: ./media//rf11.png Graphic file (type png)
+<use ./media//rf11.png>
+Package pdftex.def Info: ./media//rf11.png  used on input line 313.
+(pdftex.def)             Requested size: 375.40158pt x 142.53214pt.
+Package hyperref Info: Anchor `page.10' on input line 318.
+ [10
 
-]
-Package hyperref Info: Anchor `section.27' on input line 193.
-Package hyperref Info: bookmark on input line 193:
-(hyperref)             thecounter {4}
-(hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline {\csname thesection\endcsname }\fi Analisi dei Componenti}
+ <./media//rf11.png>]
+Package hyperref Info: Anchor `section.27' on input line 322.
+Package hyperref Info: bookmark on input line 322:
+(hyperref)             thecounter {2}
+(hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline {\csname thesection\endcsname }\fi Requisiti Non Funzionali}
 (hyperref)             reference {section.27}
 (hyperref)             toclevel {1}
 (hyperref)             type {toc}.
-Package hyperref Info: Anchor `subsection.28' on input line 194.
-Package hyperref Info: bookmark on input line 194:
+Package hyperref Info: Anchor `subsubsection.28' on input line 329.
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 329.
+
+Package hyperref Info: bookmark on input line 329:
+(hyperref)             thecounter {RNF 1}
+(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Privacy}
+(hyperref)             reference {subsubsection.28}
+(hyperref)             toclevel {3}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `subsubsection.29' on input line 353.
+Package hyperref Info: bookmark on input line 353:
+(hyperref)             thecounter {RNF 2}
+(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Sicurezza}
+(hyperref)             reference {subsubsection.29}
+(hyperref)             toclevel {3}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `subsubsection.30' on input line 373.
+Package hyperref Info: bookmark on input line 373:
+(hyperref)             thecounter {RNF 3}
+(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Scalabilità}
+(hyperref)             reference {subsubsection.30}
+(hyperref)             toclevel {3}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `subsubsection.31' on input line 387.
+Package hyperref Info: bookmark on input line 387:
+(hyperref)             thecounter {RNF 4}
+(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Affidabilità}
+(hyperref)             reference {subsubsection.31}
+(hyperref)             toclevel {3}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `subsubsection.32' on input line 404.
+Package hyperref Info: bookmark on input line 404:
+(hyperref)             thecounter {RNF 5}
+(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Resilienza}
+(hyperref)             reference {subsubsection.32}
+(hyperref)             toclevel {3}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `page.11' on input line 418.
+[11
+
+]
+Package hyperref Info: Anchor `subsubsection.33' on input line 420.
+Package hyperref Info: bookmark on input line 420:
+(hyperref)             thecounter {RNF 6}
+(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Accessibilità}
+(hyperref)             reference {subsubsection.33}
+(hyperref)             toclevel {3}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `subsubsection.34' on input line 441.
+Package hyperref Info: bookmark on input line 441:
+(hyperref)             thecounter {RNF 7}
+(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Monitoraggio}
+(hyperref)             reference {subsubsection.34}
+(hyperref)             toclevel {3}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `subsubsection.35' on input line 459.
+Package hyperref Info: bookmark on input line 459:
+(hyperref)             thecounter {RNF 8}
+(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline {\csname thesubsubsection\endcsname }\fi Multilingua}
+(hyperref)             reference {subsubsection.35}
+(hyperref)             toclevel {3}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `page.12' on input line 473.
+ [12
+
+]
+Package hyperref Info: Anchor `section.36' on input line 476.
+Package hyperref Info: bookmark on input line 476:
+(hyperref)             thecounter {3}
+(hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline {\csname thesection\endcsname }\fi Analisi del Contesto}
+(hyperref)             reference {section.36}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `subsection.37' on input line 483.
+Package hyperref Info: bookmark on input line 483:
+(hyperref)             thecounter {3.1}
+(hyperref)             text {\ifnum 2>\c@secnumdepth \else \protect \numberline {\csname thesubsection\endcsname }\fi Utenti e Sistemi esterni}
+(hyperref)             reference {subsection.37}
+(hyperref)             toclevel {2}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `subsection.38' on input line 484.
+Package hyperref Info: bookmark on input line 484:
+(hyperref)             thecounter {3.2}
+(hyperref)             text {\ifnum 2>\c@secnumdepth \else \protect \numberline {\csname thesubsection\endcsname }\fi Diagramma di contesto}
+(hyperref)             reference {subsection.38}
+(hyperref)             toclevel {2}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `page.13' on input line 485.
+ [13
+
+]
+Package hyperref Info: Anchor `section.39' on input line 488.
+Package hyperref Info: bookmark on input line 488:
+(hyperref)             thecounter {4}
+(hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline {\csname thesection\endcsname }\fi Analisi dei Componenti}
+(hyperref)             reference {section.39}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `subsection.40' on input line 489.
+Package hyperref Info: bookmark on input line 489:
 (hyperref)             thecounter {4.1}
 (hyperref)             text {\ifnum 2>\c@secnumdepth \else \protect \numberline {\csname thesubsection\endcsname }\fi Definizione dei componenti}
-(hyperref)             reference {subsection.28}
+(hyperref)             reference {subsection.40}
 (hyperref)             toclevel {2}
 (hyperref)             type {toc}.
-Package hyperref Info: Anchor `subsection.29' on input line 196.
-Package hyperref Info: bookmark on input line 196:
+Package hyperref Info: Anchor `subsection.41' on input line 491.
+Package hyperref Info: bookmark on input line 491:
 (hyperref)             thecounter {4.2}
 (hyperref)             text {\ifnum 2>\c@secnumdepth \else \protect \numberline {\csname thesubsection\endcsname }\fi Diagramma dei componenti}
-(hyperref)             reference {subsection.29}
+(hyperref)             reference {subsection.41}
 (hyperref)             toclevel {2}
 (hyperref)             type {toc}.
-Package hyperref Info: Anchor `page.7' on input line 198.
- [7
+Package hyperref Info: Anchor `page.14' on input line 493.
+ [14
 
 ] (./doc.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `doc.out' has not changed.
-(rerunfilecheck)             Checksum: E234A0F964A407477B6D59425A945B6D;4169.
+(rerunfilecheck)             Checksum: DAB254122F5A02FF4DBFB56C2959C80B;6026.
  ) 
 Here is how much of TeX's memory you used:
- 20568 strings out of 478238
- 379860 string characters out of 5850455
- 657758 words of memory out of 5000000
- 38425 multiletter control sequences out of 15000+600000
+ 20701 strings out of 478238
+ 381765 string characters out of 5850455
+ 659884 words of memory out of 5000000
+ 38523 multiletter control sequences out of 15000+600000
  478071 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,7n,80p,467b,694s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 84i,12n,80p,469b,327s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on doc.pdf (7 pages, 85129 bytes).
+Output written on doc.pdf (14 pages, 166474 bytes).
 PDF statistics:
- 249 PDF objects out of 1000 (max. 8388607)
- 227 compressed objects within 3 object streams
- 37 named destinations out of 1000 (max. 500000)
- 237 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 377 PDF objects out of 1000 (max. 8388607)
+ 325 compressed objects within 4 object streams
+ 56 named destinations out of 1000 (max. 500000)
+ 388 words of extra memory for PDF output out of 10000 (max. 10000000)
 
