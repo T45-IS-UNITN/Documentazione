@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.10.23)  3 NOV 2022 14:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.11.8)  10 NOV 2022 01:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1141,42 +1141,52 @@ Package hyperref Info: bookmark on input line 483:
 (hyperref)             reference {subsection.37}
 (hyperref)             toclevel {2}
 (hyperref)             type {toc}.
-Package hyperref Info: Anchor `subsection.38' on input line 484.
-Package hyperref Info: bookmark on input line 484:
+Package hyperref Info: Anchor `subsection.38' on input line 495.
+Package hyperref Info: bookmark on input line 495:
 (hyperref)             thecounter {3.2}
 (hyperref)             text {\ifnum 2>\c@secnumdepth \else \protect \numberline {\csname thesubsection\endcsname }\fi Diagramma di contesto}
 (hyperref)             reference {subsection.38}
 (hyperref)             toclevel {2}
 (hyperref)             type {toc}.
-Package hyperref Info: Anchor `page.13' on input line 485.
+<./media//context-diag.png, id=328, 1759.57375pt x 1243.64626pt>
+File: ./media//context-diag.png Graphic file (type png)
+<use ./media//context-diag.png>
+Package pdftex.def Info: ./media//context-diag.png  used on input line 501.
+(pdftex.def)             Requested size: 483.69687pt x 341.86145pt.
+Package hyperref Info: Anchor `page.13' on input line 508.
  [13
 
-]
-Package hyperref Info: Anchor `section.39' on input line 488.
-Package hyperref Info: bookmark on input line 488:
+ <./media//context-diag.png>]
+Package hyperref Info: Anchor `section.39' on input line 511.
+Package hyperref Info: bookmark on input line 511:
 (hyperref)             thecounter {4}
 (hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline {\csname thesection\endcsname }\fi Analisi dei Componenti}
 (hyperref)             reference {section.39}
 (hyperref)             toclevel {1}
 (hyperref)             type {toc}.
-Package hyperref Info: Anchor `subsection.40' on input line 489.
-Package hyperref Info: bookmark on input line 489:
+Package hyperref Info: Anchor `subsection.40' on input line 512.
+Package hyperref Info: bookmark on input line 512:
 (hyperref)             thecounter {4.1}
 (hyperref)             text {\ifnum 2>\c@secnumdepth \else \protect \numberline {\csname thesubsection\endcsname }\fi Definizione dei componenti}
 (hyperref)             reference {subsection.40}
 (hyperref)             toclevel {2}
 (hyperref)             type {toc}.
-Package hyperref Info: Anchor `subsection.41' on input line 491.
-Package hyperref Info: bookmark on input line 491:
+Package hyperref Info: Anchor `subsection.41' on input line 514.
+Package hyperref Info: bookmark on input line 514:
 (hyperref)             thecounter {4.2}
 (hyperref)             text {\ifnum 2>\c@secnumdepth \else \protect \numberline {\csname thesubsection\endcsname }\fi Diagramma dei componenti}
 (hyperref)             reference {subsection.41}
 (hyperref)             toclevel {2}
 (hyperref)             type {toc}.
-Package hyperref Info: Anchor `page.14' on input line 493.
+<./media//interface.png, id=335, 1295.84125pt x 917.4275pt>
+File: ./media//interface.png Graphic file (type png)
+<use ./media//interface.png>
+Package pdftex.def Info: ./media//interface.png  used on input line 518.
+(pdftex.def)             Requested size: 483.69687pt x 342.4526pt.
+Package hyperref Info: Anchor `page.14' on input line 521.
  [14
 
-] (./doc.aux)
+ <./media//interface.png>] (./doc.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -1184,18 +1194,18 @@ Package rerunfilecheck Info: File `doc.out' has not changed.
 (rerunfilecheck)             Checksum: DAB254122F5A02FF4DBFB56C2959C80B;6026.
  ) 
 Here is how much of TeX's memory you used:
- 20701 strings out of 478238
- 381765 string characters out of 5850455
- 659884 words of memory out of 5000000
- 38523 multiletter control sequences out of 15000+600000
+ 20717 strings out of 478238
+ 382191 string characters out of 5850456
+ 659883 words of memory out of 5000000
+ 38537 multiletter control sequences out of 15000+600000
  478071 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,12n,80p,469b,327s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 84i,12n,80p,650b,327s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on doc.pdf (14 pages, 166474 bytes).
+Output written on doc.pdf (14 pages, 481070 bytes).
 PDF statistics:
- 377 PDF objects out of 1000 (max. 8388607)
+ 381 PDF objects out of 1000 (max. 8388607)
  325 compressed objects within 4 object streams
  56 named destinations out of 1000 (max. 500000)
- 388 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 398 words of extra memory for PDF output out of 10000 (max. 10000000)
 

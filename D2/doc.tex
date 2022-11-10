@@ -481,7 +481,30 @@
 \end{description}
 
 \subsection{Utenti e Sistemi esterni}
+\begin{itemize}
+
+\item \textbf{Utente}: colui che fa uso del portale per prenotare appuntamenti per donare il sangue. Il RF5 (Login) identifca l'utente non registrato e l'utente registrato.
+
+\item \textbf{Amministratore}: colui che detiene privilegi più elevati, in grado di influire sull'esperienza d'uso degli altri utenti.
+
+\item \textbf{Servizio di Notifica}: l'ente a cui ci si rivolte per assolvere il compito di notificare l'utente riguardo una prenotazione imminente.
+
+\item \textbf{PA} (Pubblica Amministrazione): l'ente a cui ci si rivolge per registrare nuovi utenti all'elenco dei donatori. 
+\end{itemize}
+
 \subsection{Diagramma di contesto}
+\begin{description}
+
+
+\begin{figure}[htp]
+		\centering
+		\includegraphics[width=\textwidth]{context-diag.png}
+	\end{figure}
+
+\item[] Sia l’utente che l’amministratore eseguono l’autenticazione sul sito tramite OTP oppure passando tramite la pubblica amministazione (SPID) secondo il RF5 e il RF6, l’utente (anche senza autenticazione) ha accesso alla visualizzazione degli slot disponibili (RF1), ma solo una volta autenticato ha accesso alla possibilità di prenotare la sala donazioni RF2 da cui può anche disdire le prenotazioni già effettuate (RF4). \\ Gli amministratori possono modificiare le prenotazioni di qualisiasi utente registrato (mentre l’utente può modificare solo le proprie).
+\end{description}
+
+
 \clearpage
 
 % #### Anal. Compoonent. ####
@@ -489,5 +512,10 @@
 \subsection{Definizione dei componenti}
 
 \subsection{Diagramma dei componenti}
+
+\begin{figure}[htp]
+		\centering
+		\includegraphics[width=\textwidth]{interface.png}
+	\end{figure}
 
 \end{document}
